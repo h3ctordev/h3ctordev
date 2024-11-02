@@ -5,8 +5,6 @@
 
 - 🔭 Trabajo con [Yourney](yourney.io)
 
-- 💬 Preguntame sobre *Vue, nuxt, node*
-
 - 📫 háblame a *h3ctordev@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
