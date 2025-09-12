@@ -3,7 +3,7 @@
 
 <a href="https://wakatime.com/@23bb3960-ea41-48c8-9b9e-25c26ed1d7be"><img src="https://wakatime.com/badge/user/23bb3960-ea41-48c8-9b9e-25c26ed1d7be.svg" alt="Total time coded since Jul 23 2025" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3ctordev&label=Profile%20views&color=0e75b6&style=flat" alt="h3ctordev" />  </p>
-- 🔭 Trabajo con [Yourney](https://yourney.io)
+- 🔭 Trabajo con <a href="https://yourney.io" target="_blank">Yourney</a>
 
 - 📫 háblame a *contacto@hectordev.cl*
 
