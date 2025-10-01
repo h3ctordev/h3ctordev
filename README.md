@@ -9,35 +9,35 @@ Además, cuento con background en **firmware y sistemas embebidos**, lo que me p
 ## 🚀 Tecnologías y herramientas  
 
 ### 🖥️ Desarrollo Web & Mobile  
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/NestJS-000000?logo=nestjs&logoColor=E0234E" />
-  <img src="https://img.shields.io/badge/Vue.js-000000?logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB" />
-  <!-- <img src="https://img.shields.io/badge/React_Native-000000?logo=react&logoColor=61DAFB" /> -->
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-000000?logo=astro&logoColor=FF5D01" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=47A248" />
+  <!-- <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" /> -->
 </p>
 
 ### ⚙️ DevOps & Infraestructura  
-<p align="center">
-  <!-- <img src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Kubernetes-000000?logo=kubernetes&logoColor=326CE5" />
-  <img src="https://img.shields.io/badge/NGINX-000000?logo=nginx&logoColor=009639" /> -->
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?logo=github-actions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/AWS-000000?logo=amazonaws&logoColor=FF9900" />
+<p align="left">
+  <!-- <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
 </p>
 
 ### 🔧 Firmware & Electrónica  
-<p align="center">
-  <img src="https://img.shields.io/badge/C-000000?logo=c&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C++-000000?logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Arduino-000000?logo=arduino&logoColor=00979D" />
-  <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=E7352C" />
-  <img src="https://img.shields.io/badge/STM32-000000?logo=stmicroelectronics&logoColor=03234B" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-000000?logo=raspberrypi&logoColor=A22846" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
 ---
 
