@@ -24,8 +24,8 @@ Además, cuento con background en **firmware y sistemas embebidos**, lo que me p
 <p align="left">
   <!-- <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
 </p>
@@ -73,6 +73,8 @@ Proyecto donde integré firmware embebido con servicios web y backend en la nube
   <a href="https://hectordev.cl"><img src="https://img.shields.io/badge/Portafolio-000?logo=vercel&logoColor=white" /></a>
 </p>
 
+<!--
 ---
 
 ✨ *De la electrónica al software: creando soluciones desde el hardware hasta la nube.*  
+-->
