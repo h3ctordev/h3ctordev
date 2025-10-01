@@ -68,8 +68,8 @@ Proyecto donde integré firmware embebido con servicios web y backend en la nube
 
 ## 📫 Cómo contactarme  
 <p align="center">
-  <a href="mailto:contacto@hectordev.cl" target="_blank"><img src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=D14836" /></a>
-  <a href="https://www.linkedin.com/in/h3ctordev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=0077B5" /></a>
+  <a href="mailto:contacto@hectordev.cl" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/h3ctordev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://hectordev.cl target="_blank""><img src="https://img.shields.io/badge/Portafolio-000?logo=vercel&logoColor=white" /></a>
 </p>
 
