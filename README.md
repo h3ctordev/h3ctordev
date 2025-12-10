@@ -58,11 +58,6 @@ Proyecto donde integré firmware embebido con servicios web y backend en la nube
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3ctordev&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
----
-
-## 🌱 Actualmente aprendiendo    
-- **Arquitecturas seguras** en apps.  
-- **Integración IoT → Cloud** para proyectos híbridos firmware + backend.  
 
 ---
 
@@ -70,7 +65,7 @@ Proyecto donde integré firmware embebido con servicios web y backend en la nube
 <p align="center">
   <a href="mailto:contacto@hectordev.cl" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/h3ctordev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://hectordev.cl target="_blank""><img src="https://img.shields.io/badge/Portafolio-000?logo=vercel&logoColor=white" /></a>
+  <a href="https://hectordev.cl" target="_blank""><img src="https://img.shields.io/badge/Portafolio-000?logo=vercel&logoColor=white" /></a>
 </p>
 
 <!--
