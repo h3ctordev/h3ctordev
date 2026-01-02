@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=h3ctordev)
+
 # 👋 Hola, soy Héctor  
 
 🔌 Ingeniero en Electrónica → 💻 Desarrollador de Software  
@@ -51,12 +53,6 @@ Aplicación móvil (React Native + NestJS + MongoDB) que organiza transacciones 
 Proyecto donde integré firmware embebido con servicios web y backend en la nube.  
 
 ---
--->
-## 📊 Mis estadísticas en GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h3ctordev&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3ctordev&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 
 ---
