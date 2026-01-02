@@ -1,5 +1,4 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=h3ctordev)
-![Profile view counter on GitHub](https://shields-io-visitor-counter.herokuapp.com/badge?page=h3ctordev.h3ctordev)
 
 # 👋 Hola, soy Héctor  
 
