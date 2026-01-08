@@ -42,10 +42,17 @@ Además, cuento con background en **firmware y sistemas embebidos**, lo que me p
   <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
+
 ---
 
-### 
-![Hector's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=h3ctordev&show=reviews&show_icons=true&theme=dark)
+## 💻 Estadisticas
+<p>
+  <img height=165 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=h3ctordev&&layout=compact&theme=dark&locale=es">
+  <br />
+  <br />
+  <img height=165 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=h3ctordev&show_icons=true&hide=issues,contribs&theme=dark&locale=es">
+</p>
+
 ---
 
 <!--
