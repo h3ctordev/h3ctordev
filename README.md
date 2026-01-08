@@ -1,4 +1,5 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=h3ctordev)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=h3ctordev) [![wakatime](https://wakatime.com/badge/user/23bb3960-ea41-48c8-9b9e-25c26ed1d7be.svg)](https://wakatime.com/@23bb3960-ea41-48c8-9b9e-25c26ed1d7be)
+
 
 # 👋 Hola, soy Héctor  
 
@@ -43,6 +44,10 @@ Además, cuento con background en **firmware y sistemas embebidos**, lo que me p
 </p>
 ---
 
+### 
+![Hector's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=h3ctordev&show=reviews&show_icons=true&theme=dark)
+---
+
 <!--
 
 ## 📌 Proyectos destacados  
@@ -57,6 +62,13 @@ Proyecto donde integré firmware embebido con servicios web y backend en la nube
 
 ---
 
+
+<!--
+---
+
+✨ *De la electrónica al software: creando soluciones desde el hardware hasta la nube.*  
+-->
+
 ## 📫 Cómo contactarme  
 <p align="center">
   <a href="mailto:contacto@hectordev.cl" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
@@ -64,8 +76,3 @@ Proyecto donde integré firmware embebido con servicios web y backend en la nube
   <a href="https://hectordev.cl" target="_blank""><img src="https://img.shields.io/badge/Portafolio-000?logo=vercel&logoColor=white" /></a>
 </p>
 
-<!--
----
-
-✨ *De la electrónica al software: creando soluciones desde el hardware hasta la nube.*  
--->
